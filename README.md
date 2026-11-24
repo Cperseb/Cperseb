@@ -42,7 +42,6 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando
 | ✅ **Lista de Tareas (Node.js)** | Gestión de tareas en servidor local con Node.js | [Ver repositorio](https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE) |
 | 🛒 **Tienda de Videojuegos** | Aplicación web desarrollada con Java y JSP | [Ver repositorio](https://github.com/Cperseb/Proyecto-videojuegos-JSP) |
 | 🦁 **Catálogo de un Zoológico** | Proyecto de gestión y catálogo web | [Ver repositorio](https://github.com/Cperseb/Catalogo-zoologico) |
-| 📚 **Base de Datos de Biblioteca** | Diseño y modelado relacional SQL | [Ver repositorio](https://github.com/Cperseb/Base-de-datos-biblioteca) |
 | 🎲 **Tres en Raya** | Lógica de juego implementada en Java | [Ver repositorio](https://github.com/Cperseb/Tres-en-Raya-Java) |
 
 ---
