@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador de Aplicaciones Web | Máster en Ingeniería de Datos e IA  
 
-Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando el **Máster en Ingeniería de Datos e Inteligencia Artificial** en **Tajamar Tech**. Enfocado en el aprendizaje y desarrollo de soluciones de datos e IA utilizando **Python**, bases de datos y arquitectura backend.
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando el **Máster en Ingeniería de Datos e Inteligencia Artificial** en **Tajamar**. Enfocado en el aprendizaje y desarrollo de soluciones de datos e IA utilizando **Python**, bases de datos y arquitectura backend.
 
 ![Microsoft DP-800](https://img.shields.io/badge/Microsoft%20Certified-DP--800%20SQL%20AI%20Developer-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Enfoque Actual](https://img.shields.io/badge/Aprendiendo-Python%20%7C%20Data%20%26%20IA-3776AB?style=flat&logo=python&logoColor=white)
