@@ -2,9 +2,9 @@
 
 ### 🚀 Desarrollador de Aplicaciones Web | Máster en Ingeniería de Datos e IA  
 
-Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando el **Máster en Ingeniería de Datos e Inteligencia Artificial** en **Tajamar**. Enfocado en el aprendizaje y desarrollo de soluciones de datos e IA utilizando **Python**, bases de datos y arquitectura backend.
+Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando el **Máster en Ingeniería de Datos e Inteligencia Artificial** en **Tajamar Tech**. Enfocado en el aprendizaje y desarrollo de soluciones de datos e IA utilizando **Python**, bases de datos y arquitectura backend.
 
-![Microsoft DP-800](https://learn.microsoft.com/api/credentials/share/es-es/CarlosPertierraSebastin-6952/44B4DA189E3FD076?sharingId=F45BCF7B277DCA7A)
+[![Microsoft DP-800](https://img.shields.io/badge/Microsoft%20Certified-DP--800%20SQL%20AI%20Developer-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/es-es/CarlosPertierraSebastin-6952/44B4DA189E3FD076?sharingId=F45BCF7B277DCA7A)
 ![Enfoque Actual](https://img.shields.io/badge/Aprendiendo-Python%20%7C%20Data%20%26%20IA-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
@@ -42,6 +42,7 @@ Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando
 | ✅ **Lista de Tareas (Node.js)** | Gestión de tareas en servidor local con Node.js | [Ver repositorio](https://github.com/Cperseb/Lista-de-Tareas-en-servidor-NODE) |
 | 🛒 **Tienda de Videojuegos** | Aplicación web desarrollada con Java y JSP | [Ver repositorio](https://github.com/Cperseb/Proyecto-videojuegos-JSP) |
 | 🦁 **Catálogo de un Zoológico** | Proyecto de gestión y catálogo web | [Ver repositorio](https://github.com/Cperseb/Catalogo-zoologico) |
+| 📚 **Base de Datos de Biblioteca** | Diseño y modelado relacional SQL | [Ver repositorio](https://github.com/Cperseb/Base-de-datos-biblioteca) |
 | 🎲 **Tres en Raya** | Lógica de juego implementada en Java | [Ver repositorio](https://github.com/Cperseb/Tres-en-Raya-Java) |
 
 ---
