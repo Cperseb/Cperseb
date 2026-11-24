@@ -4,7 +4,7 @@
 
 Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y actualmente cursando el **Máster en Ingeniería de Datos e Inteligencia Artificial** en **Tajamar**. Enfocado en el aprendizaje y desarrollo de soluciones de datos e IA utilizando **Python**, bases de datos y arquitectura backend.
 
-![Microsoft DP-800](https://img.shields.io/badge/Microsoft%20Certified-DP--800%20SQL%20AI%20Developer-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft DP-800](https://learn.microsoft.com/api/credentials/share/es-es/CarlosPertierraSebastin-6952/44B4DA189E3FD076?sharingId=F45BCF7B277DCA7A)
 ![Enfoque Actual](https://img.shields.io/badge/Aprendiendo-Python%20%7C%20Data%20%26%20IA-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
